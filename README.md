@@ -5,7 +5,7 @@
 
 ### 1.1 指令集
 
-【图1】
+![pic1](https://github.com/WongYuetYee/CPU34/blob/main/gen_instruction/%E5%9B%BE%E7%89%871.png)
 
 本设计支持图1所示的34条指令，其中，该设计将根据[31:26]和[5:0]两部分识别指令，并进一步根据识别出的指令读取操作数、立即数等，完成相应的操作。图中，rs表示源操作数的寄存器地址，rd表示目的存储的寄存器地址，在缺乏rd时，rt用作目的存储的寄存器地址，否则，rt用作第二个操作数的寄存器地址。
 Offset/ind/imm/sa皆为立即数。
@@ -23,7 +23,7 @@ PCU模块启动后，根据输入的操作码和状态码判断是否进行程�
 
 ## 三、电路框架
 ### 3.1模块
-【图2】
+![pic2](https://github.com/WongYuetYee/CPU34/blob/main/gen_instruction/%E5%9B%BE%E7%89%871.png)
 
 ## 四、总结
 ### 1.框架设计
