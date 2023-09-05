@@ -23,7 +23,7 @@ PCU模块启动后，根据输入的操作码和状态码判断是否进行程�
 
 ## 三、电路框架
 ### 3.1模块
-![pic2](https://github.com/WongYuetYee/CPU34/blob/main/gen_instruction/%E5%9B%BE%E7%89%871.png)
+![pic2](https://github.com/WongYuetYee/CPU34/blob/main/gen_instruction/%E5%9B%BE%E7%89%872.png)
 
 ## 四、总结
 ### 1.框架设计
